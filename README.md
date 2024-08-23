@@ -1,18 +1,31 @@
-# Who am I
-I'm Tripob Pongpanich (Tai) ☠️
----
+<h1 align="center"> Who am I ✨</h1>  
 
-<!--
-**yusoqt/yusoqt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+``` 
+I'm Tripob Pongpanich (Tai) ☠️  
+PCSHSST 24, 27;  
+CU INTANIA 108 ( CEDT 02 );  
+```
+## Coding Skills - 💻  
+**Using -** ```.cpp``` ```.c``` ```.py``` ```.html``` ```.css```
+</br>
 
-Here are some ideas to get you started:
+## LeetCode Stats - 💡
+![LeetCode Stats](https://leetcard.jacoblin.cool/yusoqt?theme=wtf&font=ABeeZee)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!---
+# Who am I ✨  
+<img src="https://sadanduseless.b-cdn.net/wp-content/uploads/2022/01/fat-cat4.jpg" alt="drawing" width="200"/>  
+</br>
+```
+I'm Tripob Pongpanich (Tai) ☠️  
+PCSHSST 24, 27;  
+CU INTANIA 108 ( CEDT 02 );  
+```
+10 Fact About me
+</br></br>
+## Coding Skills - 💻  
+--->
+
+  
+
