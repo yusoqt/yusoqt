@@ -1,4 +1,4 @@
-<h1 align="center"> Who am I ✨</h1>  
+# Who am I 
 
 ``` 
 I'm Tripob Pongpanich (Tai) ☠️  
