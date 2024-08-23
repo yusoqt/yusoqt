@@ -1,17 +1,17 @@
 # Who am I ✨
-
 ``` 
 I'm Tripob Pongpanich (Tai) ☠️  
 PCSHSST 24, 27;  
 CU INTANIA 108 ( CEDT 02 );  
 ```
 ## Coding Skills - 💻  
-**Using -** ```.cpp``` ```.c``` ```.py``` ```.html``` ```.css```
-</br>
-
+- ```.cpp```
+- ```.c```
+- ```.py```
+- ```.html```
+- ```.css```
 ## LeetCode Stats - 💡
 ![LeetCode Stats](https://leetcard.jacoblin.cool/yusoqt?theme=wtf&font=ABeeZee)
-
 
 <!---
 # Who am I ✨  
