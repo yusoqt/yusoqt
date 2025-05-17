@@ -10,6 +10,10 @@ CU INTANIA 108 ( CEDT 02 );
 - ```.py```
 - ```.html```
 - ```.css```
+- ```.js```
+- ```.java```
+- ```.sql```
+  
 ## LeetCode Stats - 💡
 ![LeetCode Stats](https://leetcard.jacoblin.cool/yusoqt?theme=wtf&font=ABeeZee)
 
